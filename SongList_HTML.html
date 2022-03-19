@@ -35,7 +35,7 @@
               {
                 "name" : "You Belong With Me",
                 "artiste" : "Taylor Swift",
-                "genres" : ["Country", "Pop"],
+                "genres" : ["Country", " Pop"],
                 "description" : "Can't you see that you belong with me?",
                 "year" : 2008,
                 toJSON() {return this.name + " of the genres " + this.genres + " was sang by " + this.artiste + ", was released in year " + this.year + ", and says " + this.description}
@@ -44,7 +44,7 @@
               {
                 "name" : "Patient Love",
                 "artiste" : "Passenger",
-                "genres" : ["Folk, Pop, Acoustic"],
+                "genres" : ["Folk", " Pop", " Acoustic"],
                 "description" : "I'll wait for you",
                 "year" : 2012,
                 toJSON() {return this.name + " of the genres " + this.genres + " was sang by " + this.artiste + ", was released in year " + this.year + ", and says " + this.description}
@@ -52,7 +52,7 @@
 
               {
                 "name" : "Perfect Symphony",
-                "artistes" : ["Ed Sheeran", "Andrea Bocelli"],
+                "artistes" : ["Ed Sheeran", " Andrea Bocelli"],
                 "genres" : ["Pop"],
                 "description" : "Perfect with italian opera mix",
                 "year" : 2017,
@@ -80,7 +80,7 @@
               {
                 "name" : "All Too Well",
                 "artiste" : "Taylor Swift",
-                "genres" : ["Country", "Pop", "Arena rock"],
+                "genres" : ["Country", " Pop", " Arena rock"],
                 "description" : "slow dance to it",
                 "year" : 2012,
                 toJSON() {return this.name + " of the genres " + this.genres + " was sang by " + this.artiste + ", was released in year " + this.year + ", and has a " + this.description}
@@ -89,7 +89,7 @@
               {
                 "name" : "Everything Has Changed",
                 "artistes" : ["Taylor Swift", "Ed Sheeran"],
-                "genres" : ["Folk music", "Country"],
+                "genres" : ["Folk music", " Country"],
                 "description" : "for the after party",
                 "year" : 2012,
                 toJSON() {return this.name + " of the genres " + this.genres + " was sang by " + this.artistes + ", was released in year " + this.year + ", and can be used " + this.description}
@@ -97,8 +97,8 @@
     ]
 
             for (let i = 0; i < arr.length; i++) {
-                var line = JSON.stringify(arr[i]);
-                document.write(line+ "<br>");
+                var song = JSON.stringify(arr[i]);
+                document.write(song + "<br />");
             }
 
         </script>
