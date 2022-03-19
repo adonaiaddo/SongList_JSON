@@ -41,7 +41,7 @@
 
     {
 	"name" : "Perfect Symphony",
-	"artistes" : =["Ed Sheeran", "Andrea Bocelli"],
+	"artistes" : ["Ed Sheeran", "Andrea Bocelli"],
 	"genres" : ["Pop"],
 	"description" : "Perfect with italian opera mix",
 	"year" : 2017
