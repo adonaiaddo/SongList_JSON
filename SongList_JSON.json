@@ -26,7 +26,7 @@
     {
 	"name" : "You Belong With Me",
 	"artiste" : "Taylor Swift",
-	"genres" : ["Country, Pop"],
+	"genres" : ["Country", "Pop"],
 	"description" : "Can't you see that you belong with me?",
 	"year" : 2008
     },
@@ -41,7 +41,7 @@
 
     {
 	"name" : "Perfect Symphony",
-	"artiste" : "Ed Sheeran with Andrea Bocelli",
+	"artistes" : =["Ed Sheeran", "Andrea Bocelli"],
 	"genres" : ["Pop"],
 	"description" : "Perfect with italian opera mix",
 	"year" : 2017
@@ -57,7 +57,7 @@
 
     {
 	"name" : "Don't Care",
-	"artiste" : "Ed Sheeran and Justin Bieber",
+	"artistes" : ["Ed Sheeran", "Justin Bieber"],
 	"genres" : ["Pop"],
 	"description" : "Fast Dance",
 	"year" : 2019
@@ -66,15 +66,15 @@
     {
 	"name" : "All Too Well",
 	"artiste" : "Taylor Swift",
-	"genres" : ["Country, Pop, Arena rock"],
+	"genres" : ["Country", "Pop", "Arena rock"],
 	"description" : "Slow Dance",
 	"year" : 2012
     },
 
     {
 	"name" : "Everything Has Changed",
-	"artiste" : "Taylor Swift ft Ed Sheeran",
-	"genres" : ["Folk music, Country"],
+	"artistes" : ["Taylor Swift", "Ed Sheeran"],
+	"genres" : ["Folk music", "Country"],
 	"description" : "For the After Party",
 	"year" : 2012
     }
