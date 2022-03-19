@@ -1,81 +1,81 @@
-{
-    "song" : {
+[
+    {
 	"name" : "Love Story",
-	    "artiste" : "Taylor Swift",
-	    "genres" : "Pop",
-	    "description" : "Inspired by Romeo and Juliet",
-	    "year" : 2008
-    }
+	"artiste" : "Taylor Swift",
+	"genres" : "Pop",
+	"description" : "Inspired by Romeo and Juliet",
+	"year" : 2008
+    },
 
     {
 	"name" : "Settled",
-	    "artiste" : "Passenger",
-	    "genres" : "Folk",
-	    "description" : "I settled for her and she settled for me",
-	    "year" : 2015
-    }
+	"artiste" : "Passenger",
+	"genres" : "Folk",
+	"description" : "I settled for her and she settled for me",
+	"year" : 2015
+    },
 
     {
 	"name" : "Perfect",
-	    "artiste" : "Ed Sheeran",
-	    "genres" : "Pop",
-	    "description" : "This song has a slow dance to it",
-	    "year" : 2017
-    }
+	"artiste" : "Ed Sheeran",
+	"genres" : "Pop",
+	"description" : "This song has a slow dance to it",
+	"year" : 2017
+    },
 
     {
 	"name" : "You Belong With Me",
-	    "artiste" : "Taylor Swift",
-	    "genres" : "Country, Pop",
-	    "description" : "Can't you see that you belong with me?",
-	    "year" : 2008
-    }
+	"artiste" : "Taylor Swift",
+	"genres" : "Country, Pop",
+	"description" : "Can't you see that you belong with me?",
+	"year" : 2008
+    },
 
     {
 	"name" : "Patient Love",
-	    "artiste" : "Passenger",
-	    "genres" : "Folk, Pop, Acoustic",
-	    "description" : "I'll wait for you",
-	    "year" : 2012
-    }
+	"artiste" : "Passenger",
+	"genres" : "Folk, Pop, Acoustic",
+	"description" : "I'll wait for you",
+	"year" : 2012
+    },
 
     {
 	"name" : "Perfect Symphony",
-	    "artiste" : "Ed Sheeran with Andrea Bocelli",
-	    "genres" : "Pop",
-	    "description" : "Perfect with italian opera mix",
-	    "year" : 2017
+	"artiste" : "Ed Sheeran with Andrea Bocelli",
+	"genres" : "Pop",
+	"description" : "Perfect with italian opera mix",
+	"year" : 2017
     }
 
     {
 	"name" : "Love Me Like You Do",
-	    "artiste" : "Ellie Goulding",
-	    "genres" : "Electropop",
-	    "description" : "Can be played during dinner",
-	    "year" : 2015
-    }
+	"artiste" : "Ellie Goulding",
+	"genres" : "Electropop",
+	"description" : "Can be played during dinner",
+	"year" : 2015
+    },
 
     {
 	"name" : "Don't Care",
-	    "artiste" : "Ed Sheeran and Justin Bieber",
-	    "genres" : "Pop",
-	    "description" : "Fast Dance",
-	    "year" : 2019
-    }
+	"artiste" : "Ed Sheeran and Justin Bieber",
+	"genres" : "Pop",
+	"description" : "Fast Dance",
+	"year" : 2019
+    },
 
     {
 	"name" : "All Too Well",
-	    "artiste" : "Taylor Swift",
-	    "genres" : "Country, Pop, Arena rock",
-	    "description" : "Slow Dance",
-	    "year" : 2012
-    }
+	"artiste" : "Taylor Swift",
+	"genres" : "Country, Pop, Arena rock",
+	"description" : "Slow Dance",
+	"year" : 2012
+    },
 
     {
 	"name" : "Everything Has Changed",
-	    "artiste" : "Taylor Swift ft Ed Sheeran",
-	    "genres" : "Folk music, Country",
-	    "description" : "For the After Party",
-	    "year" : 2012
+	"artiste" : "Taylor Swift ft Ed Sheeran",
+	"genres" : "Folk music, Country",
+	"description" : "For the After Party",
+	"year" : 2012
     }
-}
+]
