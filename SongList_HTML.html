@@ -95,13 +95,11 @@
                 toJSON() {return this.name + " of the genres " + this.genres + " was sang by " + this.artistes + ", was released in year " + this.year + ", and can be used " + this.description}
               }
     ]
-    
-        <div  background = #f29ec8>
+
             for (let i = 0; i < arr.length; i++) {
                 var song = JSON.stringify(arr[i]);
                 document.write(song + "<br /> <br />");
             }
-        </div>
 
         </script>
     </body>
