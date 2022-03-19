@@ -111,8 +111,8 @@
 </html>
 
             for (let i = 0; i < arr.length; i++) {
-                var line = JSON.stringify(arr[i]);
-                document.write(line+ "<br>");
+                var song = JSON.stringify(arr[i]);
+                document.write(song + "<br />");
             }
         </script>
     </body>
